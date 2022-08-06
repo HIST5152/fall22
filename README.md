@@ -15,17 +15,17 @@ seo:
 **Welcome!** 👋
 
 ### About this site
-The URL is [https://github.io/HIST5152/fall22](https://github.io/HIST5152/fall22)
+This site will be the primary location for all class-related materials throughout the Fall 2022 semester.
 
-This site will be the primary location for all class-related materials throughout the Fall 2022 semester. **Be sure to bookmark it!** 
+The URL is [https://github.io/HIST5152/fall22](https://github.io/HIST5152/fall22). **Be sure to bookmark it!** 
 
--Find your assignments, readings, and deadlines on the schedule below!
+- Find your assignments, readings, and deadlines on the schedule below!
 
--Course information, including policies and grading guidelines, are on the [syllabus](../syllabus)!
+- Course information, including policies and grading guidelines, are on the [syllabus](../syllabus)!
 
--If you need help with something inside or outside the classroom, make [resources](../resources) your first stop!
+- If you need help with something inside or outside the classroom, make [resources](../resources) your first stop!
 
--Book times to talk with me via the [calendar](../calendar)!
+- Book times to talk with me via the [calendar](../calendar)!
 
 
 Grading and attendance will be recorded via the course Canvas instance. You can access th
