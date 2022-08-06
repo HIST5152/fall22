@@ -14,4 +14,4 @@ seo:
 Welcome! :wave:
 
 ### About this site
-This site will be the primary location for all class-related materials throughout the Fall 2022 semester. Grading and attendance will be recorded via the course Canvas instance, and we may use various digital tools together over the course of the class. You'll find any necessary external links in the **Bookmarks** menu to the left.
+This site will be the primary location for all class-related materials throughout the Fall 2022 semester. Grading and attendance will be recorded via the course Canvas instance, and we may use various digital tools together over the course of the class. Any necessary external links are bookmarked at the top right!
