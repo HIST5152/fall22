@@ -12,7 +12,8 @@ seo:
 # {{ site.tagline }} 💾
 ## {{ site.description }}
 
-**Welcome!** 👋
+
+Welcome! 👋
 
 ### About this site
 This site will be the primary location for all class-related materials throughout the Fall 2022 semester. The URL is [https://github.io/HIST5152/fall22](https://github.io/HIST5152/fall22). **Be sure to bookmark it!** 
@@ -28,7 +29,7 @@ This site will be the primary location for all class-related materials throughou
 
 Grading and attendance will be recorded via the course Canvas instance. You can access th
 
-{{ site.staffersnobio }}
+{{ site.staffers }}
 
 Zoom Link for Remote Office Hours{: .btn .btn-blue } Podcast Recordings{: .btn .btn-green }
 
