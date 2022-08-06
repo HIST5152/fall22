@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
+name: Cynthia Heider
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
+email: cynthia.heider@temple.edu
+website: https://cynthiaheider.com
 photo: kevin.jpg
 ---
 
