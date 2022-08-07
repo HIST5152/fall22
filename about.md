@@ -18,16 +18,72 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+### Course Description
 
-## Lecture
+The use of digital methods to enhance and streamline the study, interpretation, and presentation of historical topics (the so-called “digital turn”) has gained a good bit of traction within the discipline in the recent past. This class will explore digital history methodologies, tools, and practices including digital mapping, data visualization, textual and social network analysis, interactive exhibitions, augmented and virtual reality, digital editions/publications, podcasts and oral history, the incorporation of digital pedagogy in the classroom, and more. In addition to gaining familiarity with various tools and technologies, students will discuss major issues in the field, including questions of narrative, audience, shared authority, ethics, accessibility, preservation, data integrity, and other considerations pertinent to the historical method. This course is eligible for credit toward the Graduate Certificate in Cultural Analytics.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+### Course goals include:
 
-## Resources
+- Examine evolving theory and major debates within digital humanities and digital history, including issues of transparency, ethics, accessibility, authority, and legitimacy.
+- Discover how to use digital projects to engage with multiple stakeholders and audiences and encourage conversations and collaborations
+- Evaluate and critically assess digital methodologies and tools through hands-on technical experimentation and skillbuilding
+- Determine how methods of digital history might contribute to the advancement of research interests, scholarship, and professional goals
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+### Key Questions:
+- What is digital history? How do methods of the so-called digital turn intersect with the work of doing history?
+- What are some of the pros and cons of using digital tools in the production of historical scholarship? 
+- How can I do cool things with digital tools and resources? Who else in the field is currently doing cool things? 
+- Where can I go for help if I have questions or need guidance, instructions, or inspiration for my projects? How do I keep updated on developments in the field?
 
-## Assignments
+### Course Texts + Materials
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+All course materials are available free-of-cost online, or otherwise will be provided to students by the instructor. Class readings are accessible through the course’s Canvas site in each weekly module. An overview of the various assignment categories can be found in Canvas under “Assignments General Overview.”
+
+### Credits
+
+To give credit where credit is due: I am indebted to the expertise of many scholars who came before me. This and previous iterations of the syllabus borrows ideas from other DH practitioners including Abby Mullen, Fred Gibbs, Trevor Owens, Shannon Mattern, and Ben Schmidt.
+
+You make redistribute, remix, reuse, or borrow from this syllabus under a Creative Commons 4.0 license ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))
+
+## Policies
+
+### General Policies
+All [Temple University Academic Policies](http://bulletin.temple.edu/undergraduate/academic-policies/) will be upheld.
+
+### Grading + Course Completion
+
+#### Grading Scale
+
+#### Weighting
+
+#### Attendance + Tardiness
+
+#### Due Dates + Late Policy for Assignments
+
+#### Incompletes
+
+#### Withdrawal from the Course
+
+### Continuity of Instruction in Event of Emergency
+
+Students are to register for the TUAlert System to be made aware of University closures due to weather or other emergency situations and follow all additional university-wide emergency instruction. Students can register for this system on the [Campus Safety Services website](https://safety.temple.edu/). In the event of an emergency, class materials/instructions will be provided in a web-based format via Canvas or Zoom. Students registered for the class will be alerted to any alternate testing procedures and submission of assignment requirements from the instructor via email.
+
+### Student Rights + Responsibilities
+
+#### Temple University's Statement on Academic Rights + Responsibilities
+Freedom to teach and freedom to learn are inseparable facets of academic freedom. The University has a policy on Student and Faculty Academic Rights and Responsibilities ([Policy #03.70.02](http://bulletin.temple.edu/undergraduate/academic-policies/academic-rights-responsibilities/)). Learn more about Student [Rights](https://bulletin.temple.edu/undergraduate/about-temple-university/student-rights/) + [Responsibilities](https://bulletin.temple.edu/undergraduate/about-temple-university/student-responsibilities/).
+
+#### Accommodations + Disability Disclosure Statement
+
+#### Class Conduct Expectations
+
+##### Netiquette
+
+#### Academic Honesty/Plagiarism
+According to the University Student Code of Conduct, students must not commit, attempt to commit, aid, encourage, facilitate, or solicit the commission of academic dishonesty and impropriety including plagiarism, academic cheating, and selling lecture notes or other information provided by an instructor without the instructor’s authorization. Violations may result in failing the assignment and/or failing the course, and/or other sanctions as enumerated in the [University Code of Conduct](http://studentconduct.temple.edu/policies). **Suspected instances may be referred to the University Disciplinary Committee; I also reserve the right to assign a grade of “F” for the given assignment.**
+
+### Technology
+
+#### Technology Usage Policy
+
+#### Technical Support
