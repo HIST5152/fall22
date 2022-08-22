@@ -18,7 +18,7 @@ Welcome! 👋
 {{ site.staffers }}
 
 ## About this site
-This will be the primary location for all class-related materials throughout the Fall 2022 semester. The URL is [https://github.io/HIST5152/fall22](https://github.io/HIST5152/fall22). **Be sure to bookmark it!** 
+This will be the primary location for all class-related materials throughout the Fall 2022 semester. The URL is [https://hist5152.github.io/fall22/](https://hist5152.github.io/fall22/). **Be sure to bookmark it!** 
 
 - Find your assignments, readings, and deadlines on the [schedule](/fall22/schedule)!
 
