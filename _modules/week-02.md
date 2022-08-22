@@ -1,23 +1,33 @@
 ---
-title: Basic Data Structures
+title: Week 2 - What is Digital History? (August 29)
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Topics:
+ - Defining our terms
+ - Reviewing class survey results
+ - Exploring how to make this class work for you
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Featured
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Due by today
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+: **Annotate**{: .label .label-purple }
+   - ["Digital History," definition in *The Inclusive Historian's Handbook*](https://inclusivehistorian.com/digital-history/)
+   - Risam, ["The Stakes of Postcolonial Digital Humanities"](https://github.com/HIST5152/pdfs/blob/main/Risam-New_Digital_Worlds_Postcolonial_Digital_Humanities-Chapter_1._The_Stakes_of_Postcolonial_Digital_Humanities.pdf) in *New Digital Worlds*
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+: **Watch**{: .label .label-green }
+  - Posner, ["How Did They Make That?"](https://archive.org/details/howdidtheymakethat) (~40 minutes)
+
+: **Submit**{: .label .label-blue } 
+  - [x] [Class survey](https://forms.office.com/r/seeNvBfMir)
+  - [x] Set up Hypothes.is, GitHub, and Mural if you haven't yet ([see week 1](/../week-01.md))
+  - [x] [Pick a week to lead discussion](https://tuprd-my.sharepoint.com/:x:/g/personal/tug81708_temple_edu/EacAt-yDPZ9Cnn2HSiWRaYABUyCfnsv_-a2PTT--gvgWRQ?e=2gJPlT)
+
+Class
+
+: **Lab**{: .label .label-yellow }
+
+Bonus
+: Temple Library Research Guides
+    : [Introducing the Digital Humanities](https://guides.temple.edu/digitalhumanities)
+
