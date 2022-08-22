@@ -29,9 +29,7 @@ This will be the primary location for all class-related materials throughout the
 - Book times to talk with me via my [calendar](https://outlook.office.com/bookwithme/user/d08776f14406497083a3078045380be8@temple.edu?anonymous&ep=plink)!
 
 
-Grading and attendance will be recorded via the course Canvas instance. You can access th
-
-Zoom Link for Remote Office Hours{: .btn .btn-blue } Podcast Recordings{: .btn .btn-green }
+Grading and attendance will be recorded via the course Canvas instance.
 
 ## Schedule {#schedule}
 {% for module in site.modules %} {{ module }} {% endfor %}
