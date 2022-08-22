@@ -24,8 +24,6 @@ This will be the primary location for all class-related materials throughout the
 
 - Course information, including policies and grading guidelines, are on the [syllabus](/fall22/syllabus)!
 
-[- If you need help with something inside or outside the classroom, make [resources](../resources) your first stop!]: #
-
 - Book times to talk with me via my [calendar](https://outlook.office.com/bookwithme/user/d08776f14406497083a3078045380be8@temple.edu?anonymous&ep=plink)!
 
 
