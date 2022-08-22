@@ -6,7 +6,7 @@ Topics
 : - Introductions
 : - Course + syllabus overview
 : - Navigating resources
-: - Tech stuff
+: - Tech stuff!
 
 Class
 : **Lab**{: .label .label-yellow } Set up Hypothes.is, GitHub, and Mural
