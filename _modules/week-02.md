@@ -13,7 +13,7 @@ Due by today
 
 : **Annotate**{: .label .label-purple }
    - ["Digital History," definition in *The Inclusive Historian's Handbook*](https://inclusivehistorian.com/digital-history/)
-   - Risam, ["The Stakes of Postcolonial Digital Humanities"](https://github.com/HIST5152/pdfs/blob/main/Risam-New_Digital_Worlds_Postcolonial_Digital_Humanities-Chapter_1._The_Stakes_of_Postcolonial_Digital_Humanities.pdf) in *New Digital Worlds*
+   - Risam, ["The Stakes of Postcolonial Digital Humanities"](https://raw.githubusercontent.com/HIST5152/pdfs/main/Risam-New_Digital_Worlds_Postcolonial_Digital_Humanities-Chapter_1._The_Stakes_of_Postcolonial_Digital_Humanities.pdf?token=GHSAT0AAAAAABXLIAI6DOVTUF6YPF3SQCTAYYEFDEQ) in *New Digital Worlds*
 
 : **Watch**{: .label .label-green }
   - Posner, ["How Did They Make That?"](https://archive.org/details/howdidtheymakethat) (~40 minutes)
