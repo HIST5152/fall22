@@ -21,7 +21,7 @@ Due by today
 
 : **Submit**{: .label .label-blue } 
   - [x] [Class survey](https://forms.office.com/r/seeNvBfMir)
-  - [x] Set up Hypothes.is, GitHub, and Mural if you haven't yet ([see week 1](/../week-01.md))
+  - [x] Set up Hypothes.is, GitHub, and Mural if you haven't yet (see week 1)
   - [x] [Pick a week to lead discussion](https://tuprd-my.sharepoint.com/:x:/g/personal/tug81708_temple_edu/EacAt-yDPZ9Cnn2HSiWRaYABUyCfnsv_-a2PTT--gvgWRQ?e=2gJPlT)
 
 Class
