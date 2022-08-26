@@ -15,7 +15,7 @@ Class
 : [Join our Hypothes.is reading group](https://hypothes.is/groups/WpyDko1Q/digital-history-fall-22)
 
 : [Create a GitHub account](https://github.com/)
-  : [Walkthrough](https://craftingdh.netlify.app/tutorials/github/)
+  : [Walkthrough - Just step one!](https://craftingdh.netlify.app/tutorials/github/)
 : Join our "organization" on GitHub (send me your username and I will invite you!)
 
 : [Create a Mural account](https://mural.co/)
