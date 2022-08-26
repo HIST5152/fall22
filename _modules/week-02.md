@@ -13,7 +13,7 @@ Due by today
 
 : **Annotate**{: .label .label-purple }
    - ["Digital History," definition in *The Inclusive Historian's Handbook*](https://inclusivehistorian.com/digital-history/)
-   - Risam, ["The Stakes of Postcolonial Digital Humanities"](https://raw.githubusercontent.com/HIST5152/pdfs/main/Risam-New_Digital_Worlds_Postcolonial_Digital_Humanities-Chapter_1._The_Stakes_of_Postcolonial_Digital_Humanities.pdf?token=GHSAT0AAAAAABXLIAI6DOVTUF6YPF3SQCTAYYEFDEQ) in *New Digital Worlds*
+   - Risam, ["The Stakes of Postcolonial Digital Humanities"](https://github.com/HIST5152/pdfs/blob/main/Risam-New_Digital_Worlds_Postcolonial_Digital_Humanities-Chapter_1._The_Stakes_of_Postcolonial_Digital_Humanities.pdf?raw=true) in *New Digital Worlds*
 *A reminder that you should aim for five (5) or more "substantial" annotations per piece - thoughtful contributions that productively move the conversation forward.*
 
 : **Watch**{: .label .label-green }
