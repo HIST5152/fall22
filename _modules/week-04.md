@@ -22,4 +22,5 @@ Class
 
 Bonus
 : Read
+- Caswell, Michelle. "Seeing Yourself in History: Community Archives and the Fight Against Symbolic Annihilation," The Public Historian (2014) 36 (4): 26–37. [https://doi.org/10.1525/tph.2014.36.4.26](https://doi.org/10.1525/tph.2014.36.4.26)
 - Mayer, Allana. “Crowdsourcing, Open Data and Precarious Labor,” Model View Culture 33 (February 24, 2016), [https://modelviewculture.com/pieces/crowdsourcing-open-data-and-precarious-labour](https://modelviewculture.com/pieces/crowdsourcing-open-data-and-precarious-labour)
