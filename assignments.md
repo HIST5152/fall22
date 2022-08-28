@@ -25,7 +25,7 @@ In reviewing these items, I ask that you:
 : - Reflect consistently on how you can augment the material’s content and add to an open-minded, solution-oriented group conversation.
 
 ### Grading criteria
-Aim for five (5) or more “substantial” annotations per piece - thoughtful contributions that productively move the conversation forward.
+Aim for five (5) or more “substantial” annotations per piece - thoughtful contributions that productively move the conversation forward. [Hypothes.is also has some tips for better annotations here](https://web.hypothes.is/annotation-tips-for-students/)
 
 ## Leading discussion
 Each student in the course will lead discussion during one week of the class. On this week you will be responsible for posing questions in the readings annotations and keeping the conversation going. You'll give a brief summary on the discussion at the start of class.

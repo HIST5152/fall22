@@ -9,6 +9,7 @@ Topics
 : - Sharing (your) stuff
 
 Featured
+- (AHR Open Review) Locke, ["History Can be Open Source: Democratic Dreams and the Rise of Digital History"](https://ahropenreview.com/)
 
 Due
 : **Annotate**{: .label .label-purple }
