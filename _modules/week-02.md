@@ -8,6 +8,7 @@ Topics:
  - Exploring how to make this class work for you
 
 Featured
+["What is Digital Humanities?"](http://whatisdigitalhumanities.com/)
 
 Due by today
 
@@ -25,7 +26,7 @@ Due by today
 
 Class
 
-: **Lab**{: .label .label-yellow }
+: **Lab**{: .label .label-yellow } Troubleshooting 🔧
 
 Bonus
 : Temple Library Research Guides

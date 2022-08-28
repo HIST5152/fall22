@@ -27,7 +27,7 @@ This will be the primary location for all class-related materials throughout the
 - Book times to talk with me via my [calendar](https://outlook.office.com/bookwithme/user/d08776f14406497083a3078045380be8@temple.edu?anonymous&ep=plink)!
 
 
-Grading and attendance will be recorded via the course Canvas instance.
+Grading and attendance will be recorded via the [course Canvas instance](https://templeu.instructure.com/courses/119096).
 
-## Schedule {#schedule}
+## Schedule
 {% for module in site.modules %} {{ module }} {% endfor %}

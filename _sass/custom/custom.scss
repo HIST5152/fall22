@@ -7,6 +7,22 @@
 @import 'schedule';
 @import 'staffer';
 
+// CH adds
+.responsive-wrap {
+  overflow: hidden;
+  position: relative;
+  padding-top: 60%;
+}
+
+.responsive-wrap iframe {
+ border: 0;
+ height: 100%;
+ left: 0;
+ position: absolute;
+ top: 0;
+ width: 100%;
+}
+
 // Overrides
 a abbr[title] {
   border-bottom: none;
