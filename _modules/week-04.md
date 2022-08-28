@@ -11,9 +11,15 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  - Putnam, [“The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast"](https://github.com/HIST5152/pdfs/blob/main/Putnam_Transnational%20and%20the%20Text-Searchable.pdf?raw=true)
+  - Klein, ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings"](https://github.com/HIST5152/pdfs/blob/main/Klein_The%20Image%20of%20Absence-%20Archival%20Silence%2C%20Data%20Visualization%2C%20and%20James%20Hemings.pdf?raw=true)
+  - Gitelman, ["Searching and Thinking About Searching JSTOR"](https://github.com/HIST5152/pdfs/blob/main/Gitelman_Searching%20and%20Thinking%20About%20Searching%20JSTOR.pdf?raw=true)
+  - Zeffiro, ["Digitizing Labor in the Google Books Project: Gloved Fingertips and Severed Hands"](https://github.com/HIST5152/pdfs/blob/main/Zeffiro_DigitizingLaborintheGoogleBooksProject_HumansatWorkintheDigitalAge.pdf?raw=true)
+: Discussion leader: Lucas
 
 Class
-
+: **Lab**{: .label .label-yellow } Crowdsourced history with Zooniverse + LOC's "By the People"
 
 Bonus
+: Read
+- Mayer, Allana. “Crowdsourcing, Open Data and Precarious Labor,” Model View Culture 33 (February 24, 2016), [https://modelviewculture.com/pieces/crowdsourcing-open-data-and-precarious-labour](https://modelviewculture.com/pieces/crowdsourcing-open-data-and-precarious-labour)
