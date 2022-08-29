@@ -27,7 +27,10 @@ Due by today
 
 Class
 
-: **Lab**{: .label .label-yellow } Troubleshooting 🔧
+: **Lab**{: .label .label-yellow } 
+: Troubleshooting 🔧
+: [Collaboratively Defining Digital History](https://app.mural.co/invitation/mural/digitalhistoryfall20226051/1661185235378?sender=uf8efadd416870c5b91552745&key=449e8dcc-e6d3-4e6a-9043-9ec4d8b23013)
+    : [How to navigate in Mural](https://learning.mural.co/courses/getting-started#navigating-around-the-mural)
 
 Bonus
 : Temple Library Research Guides
