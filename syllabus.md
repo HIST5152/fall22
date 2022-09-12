@@ -59,22 +59,28 @@ All [Temple University Academic Policies](http://bulletin.temple.edu/undergradua
 ### Grading + course completion ⏰
 Note: Dates, assignments, readings, or lab tutorials are subject to change throughout the semester. I will make every effort to contact you by email at least a week prior to the affected class if I make a change in the syllabus. Realistically, although I’ve tried to prepare for the unexpected, the class may change shape and form over the course of the semester due to a number of unpredictable factors.
 
+Grades and attendance are recorded in the course Canvas instance.
+
 #### Course grading scale
 A Range: 
 - A 94-100
 - A- 90-93
+
 B Range:
 - B+ 87-89
 - B 84-86
 - B- 80-83
+
 C Range:
 - C+ 77-79
 - C 74-76
 - C- 70-73
+
 D Range:
 - D+ 67-69
 - D 64-66
 - D-60-63
+
 F Range:
 - F 0-50
 
