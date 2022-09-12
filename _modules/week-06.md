@@ -11,10 +11,15 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  : Discussion leader: Xiang
+
+: **Submit**{: .label .label-blue }
+  - [x] [Group project: Project Proposal Part I](https://hist5152.github.io/fall22/assignments/#due-by-5pm-september-26-2022)
 
 
 Class
+: **Lab**{: .label .label-yellow } 
+: Building an undirected network graph with Palladio
 
 Bonus
 : Temple Library Research Guides

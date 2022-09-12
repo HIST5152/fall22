@@ -68,9 +68,11 @@ Hands-on experience really is the best way to learn how to work with digital too
 
 ### Grading criteria
 **Assessment of content** 7.5 points
+
 Assignment critically assesses an aspect of digital scholarship praxis in relation to student's own interests, competencies, skills, or professional contacts. End product represents substantive reflection upon future applications of a tool, methodology, theory, practice, or skill.
 	
 **Assessment of form** 7.5 points
+
 Student's process and outcome reflect professionalism, innovation, collegiality, and adherence to given guidelines regarding medium, organization, length, and other factors. Student included visual or other supplementary material to demonstrate an aspect of their learning.
 
 ## Digital project review (15% of grade)
@@ -79,9 +81,11 @@ By now, you've gained a bit of experience in and understanding of the behind-the
 
 ### Grading criteria
 **Assessment of content** 7.5 points
+
 Review critically assesses the substantive content of a digital project, providing feedback related to the resource's contribution to scholarship, main themes, intended audience, sources, interpretation, and the process and circumstances of the project's production.
 	
 **Assessment of form** 7.5 points
+
 Review critically assesses the technical aspects of a digital project, providing feedback related to the resource's accessibility, navigability/ease of use, design, structure, sustainability, technical innovativeness, and instrumentation of digital media tools.
 
 ## End-of-semester survey (15% of grade)

@@ -41,9 +41,13 @@ The use of digital methods to enhance and streamline the study, interpretation, 
 
 All course materials are available free-of-cost online, or otherwise will be provided to students by the instructor. Class readings are accessible through the course GitHub site.
 
+### How this course will be taught 🌐
+
+We will meet in person on Mondays from 5:00 – 7:20PM in Gladfelter Hall, room 913. Our class meetings, with few exceptions, will be interactive “lab” sessions building on the week’s themes, readings, and other group and individual assignments.
+
 ### Credits 👑
 
-To give credit where credit is due: I am indebted to the expertise of many scholars who came before me. This and previous iterations of the syllabus borrows ideas from other DH practitioners including Abby Mullen, Fred Gibbs, Trevor Owens, Shannon Mattern, and Ben Schmidt.
+To give credit where credit is due: I am indebted to the expertise of many scholars who came before me. This and previous iterations of the syllabus borrows ideas from other DH practitioners including Abby Mullen, Fred Gibbs, Shawn Graham, Trevor Owens, Shannon Mattern, and Ben Schmidt.
 
 You make redistribute, remix, reuse, or borrow from this syllabus under a Creative Commons 4.0 license ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))
 
@@ -53,17 +57,57 @@ You make redistribute, remix, reuse, or borrow from this syllabus under a Creati
 All [Temple University Academic Policies](http://bulletin.temple.edu/undergraduate/academic-policies/) will be upheld.
 
 ### Grading + course completion ⏰
+Note: Dates, assignments, readings, or lab tutorials are subject to change throughout the semester. I will make every effort to contact you by email at least a week prior to the affected class if I make a change in the syllabus. Realistically, although I’ve tried to prepare for the unexpected, the class may change shape and form over the course of the semester due to a number of unpredictable factors.
 
-#### Grading scale
+#### Course grading scale
+A Range: 
+- A 94-100
+- A- 90-93
+B Range:
+- B+ 87-89
+- B 84-86
+- B- 80-83
+C Range:
+- C+ 77-79
+- C 74-76
+- C- 70-73
+D Range:
+- D+ 67-69
+- D 64-66
+- D-60-63
+F Range:
+- F 0-50
 
 #### Weighting
+- Class preparation: 15%
+- Group project: 35%
+- Reflections: 45%
+
+Rubrics/grading guidelines for each assignment are available on the [Assignments](https://hist5152.github.io/fall22/assignments/) page.
 
 #### Attendance + tardiness
  To achieve course learning goals, students must attend and participate in classes, according to your instructors’ requirements. However, if you feel unwell or if you are under quarantine or in isolation because you have been exposed to the virus or tested positive for it, you should not come to campus or attend in-person classes or activities. It is the student’s responsibility to contact their instructors to create a plan for participation and engagement in the course as soon as they are able to do so, and to make a plan to complete all assignments in a timely fashion, when illness delays their completion.
 
 Instructors are required to record attendance for each in-person or synchronous remote meeting using an online attendance system designated by the university. This will help facilitate contact tracing if a student or instructor tests positive for COVID-19. Recording of attendance will also provide an opportunity for outreach from student services and academic support units to support students should they become ill.
 
-#### Due dates + late policy for assignments 
+If you must miss a class for any reason, give me as much notice as possible. You must still participate in the collaborative annotations prior to class, and you must show completion of any of the in-class lab assignments.
+
+#### Due dates + late policy for assignments
+Due dates for the course are as follows:
+- Readings & Annotations: weekly as assigned
+- Group Project
+    - Team Charter: 5pm September 19, 2022
+    - Project Proposal Part I: 5pm September 26, 2022
+    - Project Proposal Part II: 5pm October 3, 2022
+    - Project Proposal Part III: 5pm October 19, 2022
+- Reflections
+    - Attend a Workshop/Event: 5pm November 28, 2022
+    - Digital Project Review: 5pm November 28, 2022
+    - End-of-semester Survey: 5pm December 5, 2022
+
+If you need an extension on the due date for any assignment (excepting Readings & Annnotations), please either email me or fill out the [Extension Request form](https://forms.office.com/r/dRsdn96U4g). I will not accept late work unless you have discussed the need with me or filled out the form prior to the assignment's due date.
+
+Your success in theis class is important to me. If you are encountering other circumstances which may affect your attendance or performance in the class, – including personal, health-related, family-related, or any other type of difficulty – please let me know as soon as possible so that we can work together to develop strategies for adapting assignments to meet both your needs and the requirements of the course. You don’t need to disclose or discuss anything that you don’t feel comfortable with.
 
 #### Incompletes
 A student will be eligible for a grade of “Incomplete” only if they: 1) has/have completed at least 51% of the work at a passing level, 2) are unable to complete the work for a serious reason beyond his or her control, and 3) file a signed agreement with the instructor outlining the work to be completed and the time-frame in which that work will be completed. The student is responsible for initiating this process and all incomplete forms must be sent to the Senior Vice Dean for Academic Affairs prior to the start of study days in that semester. Please refer to the following for further details: Temple University’s [Incomplete Policy](http://bulletin.temple.edu/undergraduate/academic-policies/incomplete-coursework/) (Policy #02.10.13). 
@@ -101,3 +145,4 @@ Since technology is a focus in this class, we’ll be using computers each week 
 Limited resources are available for students who do not have the technology they need for class. Students with educational technology needs, including no computer or camera or insufficient Wifi-access, should submit a Student Technology Assistance Application located in TUPortal and linked from the [Dean of Students Support and Resources](https://deanofstudents.temple.edu/support-and-resources) webpage. The university will endeavor to meet needs, such as with a long-term loan of a laptop or Mifi device, a refurbished computer, or subsidized internet access. On-campus computer labs are available for student use. Note that there are [technology resources](https://tuportal6.temple.edu/group/its/its-resources-and-services) available for students, including some software that is available for free download and other specialty software that may be available for remote access through ITS.
 
 #### Technical support
+For a listing of technical support services available to Temple University students, see the [Temple Tech Support](https://gened.temple.edu/tech-support/) page. You may also wish to consult the [Tech Help](https://hist5152.github.io/fall22/resources/#tech) page for quick troubleshooting solutions.

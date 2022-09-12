@@ -11,11 +11,14 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  : Discussion leader: N/A
 
+: **Submit**{: .label .label-blue }
+  - [x] [Group project: Project Proposal Part III](https://hist5152.github.io/fall22/assignments/#project-proposal-part-iii-the-outcome)
 
 Class
-
+: **Lab**{: .label .label-yellow } 
+: Visualizing data meaningfully with Datawrapper
 
 Bonus
 : Temple Library Research Guides

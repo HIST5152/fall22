@@ -13,7 +13,11 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  : Discussion leader: Mikayla
+
+: **Submit**{: .label .label-blue }
+  - [x] [Group project: Team Charter](https://hist5152.github.io/fall22/assignments/#the-team-charter)
+
 
 Class
 
