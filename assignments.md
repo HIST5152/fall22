@@ -56,6 +56,13 @@ Each group will consider which tools and methodologies may help them convey a su
 #### Due by 5pm October 10, 2022.
 Each group will analyze their problem and evidence with the identified methods in order to convey an argument, and they will define parameters and a loose timeline for the project outcome. **To submit, follow the directions in your GitHub repository.**
 
+#### Group Check-In
+Schedule a time for me to check in with your group on your progress during the first week of November.
+
+#### Project Presentation
+#### Due December 5, 2022
+Your group will present the results of your group project in a 10-15 minute presentation on the last day of class, December 5, 2022. You will walk us through your process, reflecting on any challenges you encountered and how you approached them. Explain the problem, evidence and methods, the outcome, and any next steps.
+
 ### Grading criteria
 The entirety of this portion of your individual final grade will be determined by you and your group members with the completion of Peer Evaluation Forms toward the end of the semester.
 

@@ -10,7 +10,7 @@ Featured
 Due
 : **Annotate**{: .label .label-purple }
   : Discussion leader: N/A
-
+: Schedule a time for me to meet and check in your group this week.
 
 Class
 
