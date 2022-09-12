@@ -1,6 +1,7 @@
 ---
 title: Week 4 - Digital Sources (September 12)
 ---
+Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
 
 Topics
 : - Digitization + digital archives
@@ -19,7 +20,7 @@ Due
 
 Class
 : **Lab**{: .label .label-yellow } 
-: GitHub basics
+: GitHub basics :octocat:
 : Crowdsourced history with Zooniverse + LOC's "By the People"
 
 Bonus
