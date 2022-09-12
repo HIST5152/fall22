@@ -18,7 +18,9 @@ Due
 : Discussion leader: Lucas
 
 Class
-: **Lab**{: .label .label-yellow } Crowdsourced history with Zooniverse + LOC's "By the People"
+: **Lab**{: .label .label-yellow } 
+: GitHub basics
+: Crowdsourced history with Zooniverse + LOC's "By the People"
 
 Bonus
 : Read

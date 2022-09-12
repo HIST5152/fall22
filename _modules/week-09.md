@@ -12,7 +12,7 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  : Discussion leader: N/A
 
 
 Class

@@ -2,7 +2,6 @@
 title: Week 13 - Curation + Storytelling (November 14)
 ---
 
-
 Topics
 : - Storytelling + narrative
 : - Digital exhibits + interactives
@@ -13,11 +12,12 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  : Discussion leader: Lauren
 
 
 Class
-
+: **Lab**{: .label .label-yellow } 
+: Digital Storytelling in Five Frames
 
 Bonus
 : Temple Library Research Guides

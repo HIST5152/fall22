@@ -11,7 +11,7 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader:
+  : Discussion leader: Justin
 
 
 Class
