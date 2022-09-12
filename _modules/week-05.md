@@ -24,7 +24,10 @@ Due
 
 Class
 
-
 Bonus
 : Temple Library Research Guides
     : [Open Access](https://guides.temple.edu/openaccess), [Research Impact and Scholarly Credentials](https://guides.temple.edu/toolkit), [Scholarly Credentials Toolkit for History Faculty](https://guides.temple.edu/history_cred)
+: Read
+- Dressler, Virginia and Cindy Kristof. “The Right to Be Forgotten and Implications on Digital Collections: A Survey of ARL Member Institutions on Practice and Policy,” College and Research Libraries 79:7 (2018). https://doi.org/10.5860/crl.79.7.972
+- Robichaud, Danielle and Krista McCracken. “Doing the work: Editing Wikipedia as an act of reconciliation.” UWSpace (2018). http://hdl.handle.net/10012/14198.
+- Kirby, Jasmine Simone. “How NOT to create a digital media scholarship platform: the history of the Sophie 2.0 project.” IASSIST Quarterly, 42:4(2019), 1–16. https://doi.org/10.29173/iq926.
