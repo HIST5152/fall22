@@ -4,7 +4,7 @@ title: Week 4 - Digital Sources (September 12)
 Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
 
 Topics
-: - Digitization + digital archives [slides here](https://docs.google.com/presentation/d/e/2PACX-1vQS3YT64Q9Mgv-TC_S9m5HIAPpheMhDUxV1_J0xlyG2MHrX4RybHagSwkPCRepA6_DEAPlseylh8Il4/pub?start=false&loop=false&delayms=3000)
+: - Digitization + digital archives [(slides here)](https://docs.google.com/presentation/d/e/2PACX-1vQS3YT64Q9Mgv-TC_S9m5HIAPpheMhDUxV1_J0xlyG2MHrX4RybHagSwkPCRepA6_DEAPlseylh8Il4/pub?start=false&loop=false&delayms=3000)
 : - Possibilities + limitations of structured knowledge databases
 : - Labor
 
