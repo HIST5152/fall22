@@ -6,7 +6,7 @@ Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.o
 Slides from this week's [Humanities Data Primer](https://docs.google.com/presentation/d/e/2PACX-1vStzA0phHAcZb6AEwUTswxEv5w6jHaD1Mb4N6jr-uxzXWPZJUZFOJ2JqlwvRNRlQ5tEW0fyuHF1b7eO/pub?start=false&loop=false&delayms=3000)
 
 Topics
-: - Networks, relationships, and interconnectedness
+: - Networks, relationships and interconnectedness
 : - Linked/open data
 : - Local/Global
 
