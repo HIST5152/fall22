@@ -1,6 +1,7 @@
 ---
 title: Week 7 - Maps (October 3)
 ---
+Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
 
 Topics
 : - Spatial/temporal knowledge and representation
