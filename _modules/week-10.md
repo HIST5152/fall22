@@ -1,11 +1,12 @@
 ---
-title: Week 10 - Embodiment + XR (October 24)
+title: Week 10 - Audio/Visual Modalities (October 24)
 ---
 
 Topics
-: - AR/VR/MR
-: - Video and other digital games
-: - Embodiment, affect, human-computer interaction
+: - Audio + video interventions
+: - Collaborative meaning-making
+: - Oral history
+: - Podcasts + soundscapes
 
 Featured
 
@@ -19,4 +20,5 @@ Class
 
 Bonus
 : Temple Library Research Guides
-    : [Immersive Technology](https://guides.temple.edu/c.php?g=753487), [Media Studies](https://guides.temple.edu/media), [Film and Media Arts](https://guides.temple.edu/fma), [Digital Video and Image Analytics](https://guides.temple.edu/video-image-analysis-and-visualization)
+    : [Digital Video and Image Analytics](https://guides.temple.edu/video-image-analysis-and-visualization), [Media Studies](https://guides.temple.edu/media), [Film and Media Arts](https://guides.temple.edu/fma)
+: Read

@@ -1,22 +1,20 @@
 ---
-title: Week 12 - 3D Printing + Photogrammetry (November 7)
+title: Week 12 - Play (November 7)
 ---
 
 Topics
-: - 3D modeling and photogrammetry
-: - Critical making
-: - Simulacra & simulation
+: - Video and other digital games
 
 Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-  : Discussion leader: Justin
-
+  : Discussion leader: N/A
+: Schedule a time for me to meet and check in your group this week.
 
 Class
 
 
 Bonus Material
 : Temple Library Research Guides
-    : [Physical Computing](https://guides.temple.edu/c.php?g=419841), [3D Modeling and Printing](https://guides.temple.edu/c.php?g=604302)
+    : [Games and Gaming](https://guides.temple.edu/gaming), [Digital Storytelling](https://guides.temple.edu/c.php?g=504588), [Graphic Novels, Comic Books, and Sequential Art](https://guides.temple.edu/graphicnovels), [Digital Video and Image Analytics](https://guides.temple.edu/video-image-analysis-and-visualization)
