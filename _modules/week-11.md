@@ -21,7 +21,7 @@ Due
   - Sheftel and Zembrzycki, ["Slowing Down to Listen in the Digital Age: How New Technology Is Changing Oral History Practice"](https://github.com/HIST5152/pdfs/blob/main/SheftelZembrzycki_SlowingDownToListen.pdf?raw=true)
 : Discussion leader: Lauren
 
-: **Listen**
+: **Listen**{: .label .label-green }
   - Carpenter, *Drafting the Past* (podcast) episode 14: ["Dan Bouk Finds Wonder in the Boring"](https://draftingthepast.com/podcast-episodes/episode-14-dan-bouk-finds-wonder-in-the-boring/) and try to answer Mullen's "When the show is over" questions as you listen.
 
 
