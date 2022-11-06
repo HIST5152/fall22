@@ -28,7 +28,8 @@ Due
 
 
 Class
-Data sonification
+: **Lab**{: .label .label-yellow } 
+: Data sonification
 
 Bonus
 : Temple Library Research Guides

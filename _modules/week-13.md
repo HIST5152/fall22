@@ -22,7 +22,8 @@ Due
 
 
 Class
-Photogrammetry in a nutshell
+: **Lab**{: .label .label-yellow } 
+: Photogrammetry in a nutshell
 
 
 Bonus Material

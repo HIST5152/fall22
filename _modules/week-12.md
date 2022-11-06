@@ -24,9 +24,10 @@ Due
   : Discussion leader: N/A
 : Schedule a time for me to meet and check in your group this week.
 
-Class
-Exploring contingency with Twine
-Playing with VR
+Class 
+: **Lab**{: .label .label-yellow } 
+: Exploring contingency with Twine
+: Playing with VR
 
 
 Bonus Material
