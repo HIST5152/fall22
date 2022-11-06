@@ -25,6 +25,8 @@ Due
 : Schedule a time for me to meet and check in your group this week.
 
 Class
+Exploring contingency with Twine
+Playing with VR
 
 
 Bonus Material
