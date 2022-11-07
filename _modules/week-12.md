@@ -1,7 +1,7 @@
 ---
 title: Week 12 - Play + Embodiment (November 7)
 ---
-Find our Etherpad with class notes and links here: (https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
+Find our Etherpad with class notes and links here: https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg
 
 Topics
 : - Video and other digital games
@@ -22,7 +22,7 @@ Due
 - Schrader, ["‘Traveling While Black’: Virtual reality exhibit at Civil Rights Memorial Center will immerse audiences in Black experience on the road"](https://www.splcenter.org/news/2022/10/28/traveling-while-black-virtual-reality-civil-rights-memorial-center-black-experience) (Southern Poverty Law Center blog)
 - Nakamura, ["Feeling Good About Feeling Bad: Virtuous Virtual Reality and the Automation of Racial Empathy"](https://github.com/HIST5152/pdfs/blob/main/Nakamura_FeelingGoodAboutFeelingBad.pdf?raw=true)
 
-  : Discussion leader: N/A
+: Discussion leader: N/A
 : Schedule a time for me to meet and check in your group this week.
 
 Class 
