@@ -1,7 +1,7 @@
 ---
 title: Week 12 - Play + Embodiment (November 7)
 ---
-Find our Etherpad with class notes and links here: https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg
+Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
 
 Topics
 : - Video and other digital games
