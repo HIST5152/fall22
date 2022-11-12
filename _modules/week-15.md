@@ -22,7 +22,7 @@ Due
 - Ira Glass (from This American Life) on storytelling, [“Part 1, The Building Blocks of a Good Story”](https://www.youtube.com/watch?v=5pFI9UuC_fc) (00:05:23)
 - Optionally, ["Part 2: How hard it is to find decent stories and abandon crap"](https://www.youtube.com/watch?v=dx2cI-2FJRs), ["Part 3: On good taste and falling short"](https://www.youtube.com/watch?v=X2wLP0izeJE), ["Part 4: Be human"](https://www.youtube.com/watch?v=sp_8pwkg_R8)
 
-: Discussion leader: Lauren
+: Discussion leader: N/A
 : **Submit**{: .label .label-blue }
   - [x] [Reflections assignment: Attend a Workshop/Event](https://hist5152.github.io/fall22/assignments/#attend-a-workshopevent-outside-of-class-15-of-grade)
   - [x] [Reflections assignment: Digital Project Review](https://hist5152.github.io/fall22/assignments/#digital-project-review-15-of-grade)
