@@ -6,8 +6,8 @@ title: Week 14 - Fall Break (November 21)
 
 Optional: Productivity and Research/Data Management Tools
 
-Featured tools
-:Source organization, sorting, note-taking:
+**Featured tools**
+: Source organization, sorting, note-taking:
 - [Airtable](https://airtable.com/)
 - [Zotero](https://www.zotero.org/)
 - [Tropy](https://tropy.org/)
@@ -16,15 +16,15 @@ Featured tools
     - See also [DEVONThink for Historians videos](https://www.youtube.com/c/DEVONThinkforHistorians)
 - [Atlas.ti](https://atlasti.com/) for qualitative data
 
-:Writing
+: Writing
 - [Hemingway Editor](https://hemingwayapp.com/)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
 
-:Task management
+: Task management
 - [Trello](https://trello.com)
 - [Todoist](https://todoist.com/)
 
-:Data wrangling
+: Data wrangling
 - [OpenRefine](https://openrefine.org/) 
     - See also [Library Carpentries tutorial for cleaning data in OpenRefine](https://librarycarpentry.org/lc-open-refine/)
 - [Databasic.io](https://www.databasic.io/en/) which includes
@@ -35,7 +35,7 @@ Featured tools
 
 
 
-Humanists' digital systems and workflows
+: **Humanists' digital systems and workflows**
 - Daegengna Duoer, ["We Need a Better System: Streamlining Academic Digital Workflow from Reading to Writing" (2021)](https://digitalorientalist.com/2021/11/02/we-need-a-better-system-streamlining-academic-digital-workflow-from-reading-to-writing/)
 - Bihter Esener, ["Dissertating in the Digital Age: Research and Writing Tools for Organization and Productivity" (2020)](https://digitalorientalist.com/2020/05/04/dissertating-in-the-digital-age-research-and-writing-tools-for-organization-and-productivity/)
 - Jessica Parr, ["Data Management for #VastEarlyAmerica" (2019)](https://oieahc.wm.edu/explore/vastearlyamerica-resources/data-management/)
