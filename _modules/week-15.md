@@ -1,6 +1,7 @@
 ---
 title: Week 15 - Curation + Storytelling (November 28)
 ---
+Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
 
 Topics
 : - Storytelling + narrative
@@ -9,6 +10,7 @@ Topics
 : - Multi-modality + visual essays
 
 Featured
+
 
 Due
 : **Annotate**{: .label .label-purple }

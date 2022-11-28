@@ -97,4 +97,4 @@ Review critically assesses the technical aspects of a digital project, providing
 
 ## End-of-semester survey (15% of grade)
 #### Due by 5pm December 5, 2022
-When you reach the end of semester, take a moment to reflect on the things you learned, the challenges you faced, and the accomplishments you are proud of.
+When you reach the end of semester, take a moment to reflect on the things you learned, the challenges you faced, and the accomplishments you are proud of. You will receive an email with the link to the survey, and you can also find it [here](https://forms.office.com/r/LRuh5EJVqN).
