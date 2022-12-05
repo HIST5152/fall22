@@ -2,8 +2,6 @@
 title: Week 11 -  Audio/Visual Modalities (October 31)
 ---
 
-Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
-
 Topics
 : - Audio + video interventions [(slides here)](https://docs.google.com/presentation/d/e/2PACX-1vQwcsF11IBAGJled6-Rr-Ko2wIVhSjnHyFalSacJfYxFlBgkZOkTOoKJPHk_bC9abp_yYVjye12sxVM/pub?start=false&loop=false&delayms=5000)
 : - Collaborative meaning-making

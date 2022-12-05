@@ -1,7 +1,6 @@
 ---
 title: Week 5 - Access + Audience (September 19)
 ---
-Find our Etherpad with class notes and links here: [https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg](https://etherpad.wikimedia.org/p/WKz9hEG8LaUQNCALB1tg)
 
 Topics
 : - Categories, portals, and knowledge systems
