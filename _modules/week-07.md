@@ -16,10 +16,10 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-- Fisher, ["Behind the Scenes of GIS at the Woodlands"](https://www.woodlandsphila.org/blog/gis-at-the-woodlands)
-- Grunewald, ["Beyond the Archive: What GIS Mapping Reveals about German POWS in Soviet Russia"](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2019/beyond-the-archive-what-gis-mapping-reveals-about-german-pows-in-soviet-russia) in _AHA Perspectives on History_
-- Cowley and Barnes, ["Unsettling Colonial Mapping: Sonic-Spatial Representations of amiskwaciwâskahikan,"](https://www.hastac.org/blogs/kcowley/2019/02/18/unsettling-colonial-mapping-sonic-spatial-representations) _HASTAC_ blog
-- Anderson, [“Census, Map, Museum,”](https://github.com/HIST5152/pdfs/blob/main/Anderson-Census_Map_Museum.pdf?raw=true) in _Imagined Communities_ (Second Edition)
+  - Fisher, ["Behind the Scenes of GIS at the Woodlands"](https://www.woodlandsphila.org/blog/gis-at-the-woodlands)
+  - Grunewald, ["Beyond the Archive: What GIS Mapping Reveals about German POWS in Soviet Russia"](https://www.historians.org/publications-and-directories/perspectives-on-history/february-2019/beyond-the-archive-what-gis-mapping-reveals-about-german-pows-in-soviet-russia) in _AHA Perspectives on History_
+  - Cowley and Barnes, ["Unsettling Colonial Mapping: Sonic-Spatial Representations of amiskwaciwâskahikan,"](https://www.hastac.org/blogs/kcowley/2019/02/18/unsettling-colonial-mapping-sonic-spatial-representations) _HASTAC_ blog
+  - Anderson, [“Census, Map, Museum,”](https://github.com/HIST5152/pdfs/blob/main/Anderson-Census_Map_Museum.pdf?raw=true) in _Imagined Communities_ (Second Edition)
 : Discussion leader: Ryan
 
 : **Submit**{: .label .label-blue }

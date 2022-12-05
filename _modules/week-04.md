@@ -22,6 +22,7 @@ Due
 : Discussion leader: Lucas
 
 Class
+
 : **Lab**{: .label .label-yellow } 
 : GitHub basics :octocat:
 : Crowdsourced history with Zooniverse + LOC's "By the People"

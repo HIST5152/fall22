@@ -28,6 +28,7 @@ Due
 
 
 Class
+
 : **Lab**{: .label .label-yellow } 
 : Data sonification
 

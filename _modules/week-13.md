@@ -14,10 +14,10 @@ Featured
 
 Due
 : **Annotate**{: .label .label-purple }
-- Garfinkel, ["Dialogic Objects in the Age of 3-D Printing: The Case of the Lincoln Life Mask"](https://github.com/HIST5152/pdfs/blob/main/Garfinkel_Dialogic%20Objects%20in%20the%20Age%20of%203D%20Printing-%20The%20Case%20of%20the%20Lincoln%20Life%20Mask.pdf?raw=true)
-- Stuart, ["Losing Our Senses: An Exploration of 3D Object Scanning"](https://github.com/HIST5152/pdfs/blob/main/Stuart_LosingOurSenses.pdf?raw=true)
-- Jungnickel, ["Making Things to Make Sense of Things: DIY as Research and Practice"](https://github.com/HIST5152/pdfs/blob/main/Jungnickel_Making%20Things%20to%20Make%20Sense%20of%20Things.pdf?raw=true)
-- Sayers, ["Prototyping the Past"](https://github.com/HIST5152/pdfs/blob/main/Sayers_ProtoytypingThePast.pdf?raw=true)
+    - Garfinkel, ["Dialogic Objects in the Age of 3-D Printing: The Case of the Lincoln Life Mask"](https://github.com/HIST5152/pdfs/blob/main/Garfinkel_Dialogic%20Objects%20in%20the%20Age%20of%203D%20Printing-%20The%20Case%20of%20the%20Lincoln%20Life%20Mask.pdf?raw=true)
+    - Stuart, ["Losing Our Senses: An Exploration of 3D Object Scanning"](https://github.com/HIST5152/pdfs/blob/main/Stuart_LosingOurSenses.pdf?raw=true)
+    - Jungnickel, ["Making Things to Make Sense of Things: DIY as Research and Practice"](https://github.com/HIST5152/pdfs/blob/main/Jungnickel_Making%20Things%20to%20Make%20Sense%20of%20Things.pdf?raw=true)
+    - Sayers, ["Prototyping the Past"](https://github.com/HIST5152/pdfs/blob/main/Sayers_ProtoytypingThePast.pdf?raw=true)
 : Discussion leader: Justin
 
 

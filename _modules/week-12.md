@@ -13,14 +13,12 @@ Featured
 - [Kisima Innitchuna/Never Alone](http://neveralonegame.com/) (video game)
 - [Sweet Chariot](https://www.sweetchariotml.com/) (interactive tour)
 
-
-
 Due
 : **Annotate**{: .label .label-purple }
-- Chapman, ["Interacting with Digital Games as History"](https://github.com/HIST5152/pdfs/blob/main/Chapman_InteractingwithDigitalGamesAsHistory.pdf?raw=true) in Chapman, *Digital Games as History*
-- Sullivan, Nieves, Snyder, ["Making the Model: Scholarship and Rhetoric in 3-D Historical Reconstructions"](https://github.com/HIST5152/pdfs/blob/main/SullivanNievesSnyder_MakingtheModelScholarshipandRhetoricin3DHistoricalReconstructions.pdf?raw=true) in Sayers, *Making Things and Drawing Boundaries*
-- Schrader, ["‘Traveling While Black’: Virtual reality exhibit at Civil Rights Memorial Center will immerse audiences in Black experience on the road"](https://www.splcenter.org/news/2022/10/28/traveling-while-black-virtual-reality-civil-rights-memorial-center-black-experience) (Southern Poverty Law Center blog)
-- Nakamura, ["Feeling Good About Feeling Bad: Virtuous Virtual Reality and the Automation of Racial Empathy"](https://github.com/HIST5152/pdfs/blob/main/Nakamura_FeelingGoodAboutFeelingBad.pdf?raw=true)
+    - Chapman, ["Interacting with Digital Games as History"](https://github.com/HIST5152/pdfs/blob/main/Chapman_InteractingwithDigitalGamesAsHistory.pdf?raw=true) in Chapman, *Digital Games as History*
+    - Sullivan, Nieves, Snyder, ["Making the Model: Scholarship and Rhetoric in 3-D Historical Reconstructions"](https://github.com/HIST5152/pdfs/blob/main/SullivanNievesSnyder_MakingtheModelScholarshipandRhetoricin3DHistoricalReconstructions.pdf?raw=true) in Sayers, *Making Things and Drawing Boundaries*
+    - Schrader, ["‘Traveling While Black’: Virtual reality exhibit at Civil Rights Memorial Center will immerse audiences in Black experience on the road"](https://www.splcenter.org/news/2022/10/28/traveling-while-black-virtual-reality-civil-rights-memorial-center-black-experience) (Southern Poverty Law Center blog)
+    - Nakamura, ["Feeling Good About Feeling Bad: Virtuous Virtual Reality and the Automation of Racial Empathy"](https://github.com/HIST5152/pdfs/blob/main/Nakamura_FeelingGoodAboutFeelingBad.pdf?raw=true)
 
 : Discussion leader: N/A
 : Schedule a time for me to meet and check in your group this week.
