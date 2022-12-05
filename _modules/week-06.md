@@ -11,8 +11,8 @@ Topics
 : - Local/Global
 
 Featured
-- [In the Same Boats](https://sameboats.org/)
-- [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/)
+: - [In the Same Boats](https://sameboats.org/)
+: - [Six Degrees of Francis Bacon](http://www.sixdegreesoffrancisbacon.com/)
 
 Due
 : **Annotate**{: .label .label-purple }
@@ -29,7 +29,7 @@ Due
 
 Class
 : **Lab**{: .label .label-yellow } 
-: Mini dataset creation lab
+: [Mini dataset creation lab](https://github.com/HIST5152/labs/blob/main/networks.md)
 : Network visualization (chord diagram) with [Flourish](https://app.flourish.studio/projects)
 
 Bonus

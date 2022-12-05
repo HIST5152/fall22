@@ -12,11 +12,11 @@ Topics
 : - Charts, graphs, and quantitative visualization
 
 Featured
-- [Audubon Bird Migration Explorer](https://explorer.audubon.org/home)
-- [An Interactive Visualization of Every Line in _Hamilton_](https://pudding.cool/2017/03/hamilton/)
-- [The Shape of History: Reimagining Elizabeth Palmer Peabody's Historical Visualization Work](http://www.shapeofhistory.net/)
-- [Shakespeare and Company](https://shakespeareandco.princeton.edu/)
-- [From Data to Viz](https://www.data-to-viz.com/)
+: - [Audubon Bird Migration Explorer](https://explorer.audubon.org/home)
+: - [An Interactive Visualization of Every Line in _Hamilton_](https://pudding.cool/2017/03/hamilton/)
+: - [The Shape of History: Reimagining Elizabeth Palmer Peabody's Historical Visualization Work](http://www.shapeofhistory.net/)
+: - [Shakespeare and Company](https://shakespeareandco.princeton.edu/)
+: - [From Data to Viz](https://www.data-to-viz.com/)
 
 Due
 : **Annotate**{: .label .label-purple }

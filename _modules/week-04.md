@@ -9,9 +9,9 @@ Topics
 : - Labor
 
 Featured
-- [SNCC Digital Gateway](https://snccdigital.org/)
-- [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
-- [The Jane Addams Digital Edition](https://digital.janeaddams.ramapo.edu/)
+: - [SNCC Digital Gateway](https://snccdigital.org/)
+: - [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
+: - [The Jane Addams Digital Edition](https://digital.janeaddams.ramapo.edu/)
 
 Due
 : **Annotate**{: .label .label-purple }
@@ -25,7 +25,7 @@ Class
 
 : **Lab**{: .label .label-yellow } 
 : GitHub basics :octocat:
-: Crowdsourced history with Zooniverse + LOC's "By the People"
+: [Crowdsourced history with Zooniverse + LOC's "By the People"](https://github.com/HIST5152/labs/blob/32bfc995d5b6d12c5e8a5ae72273532ce9dab93d/crowdsourcing.md)
 
 Bonus
 : Read

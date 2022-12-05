@@ -30,7 +30,7 @@ Due
 Class
 
 : **Lab**{: .label .label-yellow } 
-: Data sonification
+: [Data sonification](https://github.com/HIST5152/labs/blob/32bfc995d5b6d12c5e8a5ae72273532ce9dab93d/sonification.md)
 
 Bonus
 : Temple Library Research Guides

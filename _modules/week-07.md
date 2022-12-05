@@ -9,10 +9,10 @@ Topics
 : - Maps and imagination
 
 Featured
-- [Bending Lines: Maps and Data from Deception to Distortion](https://www.leventhalmap.org/digital-exhibitions/bending-lines/)
-- [Mapping Violence](https://mappingviolence.com/)
-- [Layers of London](https://www.layersoflondon.org/)
-- [The St. Louis Map Room](https://www.jerthorp.com/stlmaproom)
+: - [Bending Lines: Maps and Data from Deception to Distortion](https://www.leventhalmap.org/digital-exhibitions/bending-lines/)
+: - [Mapping Violence](https://mappingviolence.com/)
+: - [Layers of London](https://www.layersoflondon.org/)
+: - [The St. Louis Map Room](https://www.jerthorp.com/stlmaproom)
 
 Due
 : **Annotate**{: .label .label-purple }
@@ -27,7 +27,7 @@ Due
 
 Class
 : **Lab**{: .label .label-yellow } 
-: Narrative maps with StoryMapJS
+: [Narrative maps with StoryMapJS](https://github.com/HIST5152/labs/blob/32bfc995d5b6d12c5e8a5ae72273532ce9dab93d/narrativemaps.md)
 
 Bonus
 : Temple Library Research Guides

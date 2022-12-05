@@ -8,7 +8,7 @@ Topics
 : - Exploring how to make this class work for you
 
 Featured
-["What is Digital Humanities?"](http://whatisdigitalhumanities.com/)
+: - ["What is Digital Humanities?"](http://whatisdigitalhumanities.com/)
 
 Due by today
 

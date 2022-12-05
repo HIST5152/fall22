@@ -9,9 +9,9 @@ Topics
 : - Embodiment, affect, human-computer interaction
 
 Featured
-- [Virtual tour of The Breakers mansion on Newport, RI](https://my.matterport.com/show/?m=LuK3cpKzx4B) created with Matterport (3D scanned)
-- [Kisima Innitchuna/Never Alone](http://neveralonegame.com/) (video game)
-- [Sweet Chariot](https://www.sweetchariotml.com/) (interactive tour)
+: - [Virtual tour of The Breakers mansion on Newport, RI](https://my.matterport.com/show/?m=LuK3cpKzx4B) created with Matterport (3D scanned)
+: - [Kisima Innitchuna/Never Alone](http://neveralonegame.com/) (video game)
+: - [Sweet Chariot](https://www.sweetchariotml.com/) (interactive tour)
 
 Due
 : **Annotate**{: .label .label-purple }
@@ -25,7 +25,7 @@ Due
 
 Class 
 : **Lab**{: .label .label-yellow } 
-: Exploring contingency with Twine
+: [Exploring contingency with Twine](https://github.com/HIST5152/labs/blob/32bfc995d5b6d12c5e8a5ae72273532ce9dab93d/contingency.md)
 : Playing with VR
 
 

@@ -10,8 +10,8 @@ Topics
 : - Sharing (your) stuff
 
 Featured
-- (AHR Open Review) Locke, ["History Can be Open Source: Democratic Dreams and the Rise of Digital History"](https://ahropenreview.com/)
-- [Philly Community Wireless](https://phillycommunitywireless.org/)
+: - (AHR Open Review) Locke, ["History Can be Open Source: Democratic Dreams and the Rise of Digital History"](https://ahropenreview.com/)
+: - [Philly Community Wireless](https://phillycommunitywireless.org/)
 
 
 Due
@@ -25,7 +25,9 @@ Due
   - [x] [Group project: Team Charter](https://hist5152.github.io/fall22/assignments/#the-team-charter)
 
 
-Class
+Class 
+: **Lab**{: .label .label-yellow } 
+: [Finding/defining audience with user personas](https://github.com/HIST5152/labs/blob/32bfc995d5b6d12c5e8a5ae72273532ce9dab93d/definingaudience.md)
 
 Bonus
 : Temple Library Research Guides

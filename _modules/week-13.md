@@ -8,9 +8,9 @@ Topics
 : - Simulacra & simulation
 
 Featured
-- [Thingiverse](https://www.thingiverse.com/) + [Sketchfab](https://sketchfab.com/) + [Scan the World](https://www.myminifactory.com/scantheworld/)
-- [Global History Hackathons](https://www.gla.ac.uk/schools/socialpolitical/research/economicsocialhistory/projects/global%20historyhackathons/) at the University of Glasgow
-- [Heritage Jam](https://heritagejam.hosted.york.ac.uk/) through the University of York
+: - [Thingiverse](https://www.thingiverse.com/) + [Sketchfab](https://sketchfab.com/) + [Scan the World](https://www.myminifactory.com/scantheworld/)
+: - [Global History Hackathons](https://www.gla.ac.uk/schools/socialpolitical/research/economicsocialhistory/projects/global%20historyhackathons/) at the University of Glasgow
+: - [Heritage Jam](https://heritagejam.hosted.york.ac.uk/) through the University of York
 
 Due
 : **Annotate**{: .label .label-purple }

@@ -32,7 +32,7 @@ Due
 
 Class
 : **Lab**{: .label .label-yellow } 
-: Digital Storytelling in Five Frames
+: [Digital Storytelling in Five Frames](https://github.com/HIST5152/labs/blob/32bfc995d5b6d12c5e8a5ae72273532ce9dab93d/fiveframes.md)
 
 Bonus
 : Temple Library Research Guides
