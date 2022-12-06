@@ -1,5 +1,6 @@
 ---
 title: Week 7 - Maps (October 3)
+pdf: true
 ---
 
 Topics

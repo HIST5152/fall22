@@ -1,5 +1,6 @@
 ---
 title: Week 4 - Digital Sources (September 12)
+pdf: true
 ---
 
 Topics

@@ -1,5 +1,6 @@
 ---
 title: Week 11 -  Audio/Visual Modalities (October 31)
+pdf: true
 ---
 
 Topics

@@ -1,5 +1,6 @@
 ---
 title: Week 13 - 3D Printing + Photogrammetry (November 14)
+pdf: true
 ---
 
 Topics

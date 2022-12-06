@@ -1,5 +1,6 @@
 ---
 title: Week 1 - Welcome! (August 22)
+pdf: true
 ---
 
 Topics

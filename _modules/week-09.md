@@ -1,5 +1,6 @@
 ---
 title: Week 9 - Quantitative Visualization (October 17)
+pdf: true
 ---
 **Virtual class**{: .label .label-red }
 Join me at 5pm at [https://upenn.zoom.us/my/cynthiaheider](https://upenn.zoom.us/my/cynthiaheider)

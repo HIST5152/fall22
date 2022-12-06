@@ -4,6 +4,7 @@ title: Syllabus
 description: >-
     Course policies and information.
 nav_order: 2
+pdf: true
 ---
 
 Syllabus: 

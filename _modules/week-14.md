@@ -1,5 +1,6 @@
 ---
 title: Week 14 - Fall Break (November 21)
+pdf: true
 ---
 
 **No Class**{: .label .label-red }

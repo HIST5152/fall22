@@ -1,5 +1,6 @@
 ---
 title: Week 16 - Wrap-up (December 5)
+pdf: true
 ---
 Topics
 : - Your group project presentations

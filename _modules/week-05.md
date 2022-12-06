@@ -1,5 +1,6 @@
 ---
 title: Week 5 - Access + Audience (September 19)
+pdf: true
 ---
 
 Topics

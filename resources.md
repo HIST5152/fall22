@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+pdf: true
 ---
 Resources
 {:.no_toc}

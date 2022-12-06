@@ -1,5 +1,6 @@
 ---
 title: Week 15 - Curation + Storytelling (November 28)
+pdf: true
 ---
 
 Topics

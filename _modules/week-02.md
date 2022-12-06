@@ -1,5 +1,6 @@
 ---
 title: Week 2 - What is Digital History? (August 29)
+pdf: true
 ---
 
 Topics

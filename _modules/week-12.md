@@ -1,5 +1,6 @@
 ---
 title: Week 12 - Play + Embodiment (November 7)
+pdf: true
 ---
 
 Topics

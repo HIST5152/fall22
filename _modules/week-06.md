@@ -1,5 +1,6 @@
 ---
 title: Week 6 - Networks (September 26)
+pdf: true
 ---
 
 Slides from this week's [Humanities Data Primer](https://docs.google.com/presentation/d/e/2PACX-1vStzA0phHAcZb6AEwUTswxEv5w6jHaD1Mb4N6jr-uxzXWPZJUZFOJ2JqlwvRNRlQ5tEW0fyuHF1b7eO/pub?start=false&loop=false&delayms=3000)

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Assignments
+pdf: true
 ---
 Resources
 {:.no_toc}
