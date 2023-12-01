@@ -10,9 +10,9 @@ Topics
 : - Podcasts + soundscapes
 
 Featured
-- [GIF IT UP](https://gifitup.net/en/)
-- ["She Walked Here" street tour](https://soundcloud.com/bflolgbtqhistory/sets/she-walked-here-street-tour)
-- [Citizen DJ](https://citizen-dj.labs.loc.gov/)
+: - [GIF IT UP](https://gifitup.net/en/)
+: - ["She Walked Here" street tour](https://soundcloud.com/bflolgbtqhistory/sets/she-walked-here-street-tour)
+: - [Citizen DJ](https://citizen-dj.labs.loc.gov/)
 
 Due
 : **Annotate**{: .label .label-purple }

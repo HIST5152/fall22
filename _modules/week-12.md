@@ -36,4 +36,4 @@ Bonus Material
 - McGrath, Jim. “Days of Future Past: Augmented Reality and Temporality in Digital Public Humanities” (July 19, 2017).
 - Poole, Steve. “Ghosts in the Garden: Locative Gameplay and Historical Interpretation From Below,” International Journal of Heritage Studies, 24:3, 300-314,  https://doi.org/10.1080/13527258.2017.1347887.
 - Clark, Jasmine and Alex Wermer-Colan. “The Virtual Blockson: Immersive Technologies for Teaching Primary Source Literacy on the African Diaspora” dh + lib (2020 Special Issue: 14 June 2020).
-- Kirschenbaum, Matthew G. “Text Messaging: The Transformissions of ‘Agrippa’” in Mechanisms : New Media and the Forensic Imagination. Cambridge: MIT Press, 2007.
+- Kirschenbaum, Matthew G. “Text Messaging: The Transformissions of ‘Agrippa’” in *Mechanisms : New Media and the Forensic Imagination*. Cambridge: MIT Press, 2007.

@@ -41,7 +41,7 @@ Optional: Productivity and Research/Data Management Tools
 - Bihter Esener, ["Dissertating in the Digital Age: Research and Writing Tools for Organization and Productivity" (2020)](https://digitalorientalist.com/2020/05/04/dissertating-in-the-digital-age-research-and-writing-tools-for-organization-and-productivity/)
 - Jessica Parr, ["Data Management for #VastEarlyAmerica" (2019)](https://oieahc.wm.edu/explore/vastearlyamerica-resources/data-management/)
 - Twitter thread by Andre Brett ["How I do archival research" (2018)](https://twitter.com/drdrehistorian/status/1018435855310979075)
--Brooke Bryan, ["After the Interview: On Workflow & Choosing a Digital Tool to Visualize, Organize, and Publish Interview Collections" (2016](https://ohla.info/visualizing-organizing-publishing-interview-collections/)
+- Brooke Bryan, ["After the Interview: On Workflow & Choosing a Digital Tool to Visualize, Organize, and Publish Interview Collections" (2016](https://ohla.info/visualizing-organizing-publishing-interview-collections/)
 - Zachary Schrag, ["My Quirky Workflow" (2013)](https://zacharyschrag.com/research/my-quirky-workflow/)
 - Jessica Marie Johnson's ["From the Archives: A Quick Post on Picasa, Archive Photography, Technology, and Afro-Atlantic History, Parts 1 and 2" (2013)](https://jmjafrx.substack.com/p/from-the-archives-a-quick-post-on)
 - Miriam Posner, ["Embarrassments of riches: Managing research assets" (2013)](http://miriamposner.com/blog/embarrassments-of-riches-managing-research-assets/)

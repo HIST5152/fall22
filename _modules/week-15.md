@@ -9,9 +9,6 @@ Topics
 : - Representing contingency
 : - Multi-modality + visual essays
 
-Featured
-
-
 Due
 : **Annotate**{: .label .label-purple }
   - Mullen, ["A Braided Narrative for Digital History"](https://github.com/HIST5152/pdfs/blob/main/Mullen_ABraidedNartrativeforDigitalHistory.pdf?raw=true) in *Debates in the Digital Humanities (2019)*

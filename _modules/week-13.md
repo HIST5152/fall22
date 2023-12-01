@@ -31,6 +31,6 @@ Bonus Material
 : Temple Library Research Guides
     : [Physical Computing](https://guides.temple.edu/c.php?g=419841), [3D Modeling and Printing](https://guides.temple.edu/c.php?g=604302)
 : Read
-- Kraus, Kari. “Finding Fault Lines: An Approach to Speculative Design” in The Routledge Companion to Media Studies and Digital Humanities, 2018.
+- Kraus, Kari. “Finding Fault Lines: An Approach to Speculative Design” in *The Routledge Companion to Media Studies and Digital Humanities*, 2018.
 - Blas, Zach. “Gay Bombs: User’s Manual.” Queer Technologies, http://zachblas.info/works/queer-technologies/
 - Melo, Marijel. “Knotty Cartographies: Augmenting Everyday Looking Practices of Craft and Race,” Craft Research 9:1 (2018), doi: 10.1386/crre.9.1.59_1. https://eitm.unc.edu/wp-content/uploads/2020/09/Knotty-Cartographies_Melo.pdf.
